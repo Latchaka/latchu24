@@ -1,2 +1,3 @@
 Skct has a good infrastructure
 welcome
+bye
